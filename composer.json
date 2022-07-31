@@ -2,7 +2,7 @@
     "name": "welberty.martins/wam-crypto-middleware-php",
     "autoload": {
         "psr-4": {
-            "Wam\\CryptoMidlleware\\": "src/"
+            "Wam\\CryptoMiddleware\\": "src/"
         }
     },
     "autoload-dev": {
