@@ -2,6 +2,7 @@
     "name": "welberty.martins/wam-crypto-middleware-php",
     "version": "1.0.0",
     "description": "Basic library for encoding, decoding, hashing and encryption.",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Wam\\": "src/"
